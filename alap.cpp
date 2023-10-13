@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+constexpr int fib(int n)
 {
 	int N,ar,tav;
 	cin >> N;
