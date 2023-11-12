@@ -14,7 +14,7 @@ int main()
         cin >> meres;
         if (meres > 0)
         {
-            db = db+1;   // vagy: db+++;
+            db = db+1; // db++ vagy ++db  // vagy: db++;
         }
     }
     cout << db;
